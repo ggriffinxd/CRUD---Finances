@@ -1,0 +1,19 @@
+{
+  "personFinances": [
+    {
+      "id": "2eba",
+      "name": "Gabriel Almeida Mendes",
+      "value": "100"
+    },
+    {
+      "id": "3e1b",
+      "name": "Gabriel Almeida Mendes",
+      "value": "123123"
+    },
+    {
+      "id": "7e1f",
+      "name": "Gabriel Almeida Mendes",
+      "value": "-123"
+    }
+  ]
+}
